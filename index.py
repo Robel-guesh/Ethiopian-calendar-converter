@@ -1,1 +1,4 @@
-print('hello world')
+from tkinter import * 
+from tkinter import ttk
+window=Tk()
+window.mainloop()
